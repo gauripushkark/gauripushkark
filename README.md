@@ -12,8 +12,13 @@ Currently building end-to-end analytics projects using SQL, Python, and Power BI
 - Supply Chain & Reverse Logistics Analytics
 
 ## 📊 Featured Projects
-- Reverse Logistics Analytics (In Progress)
-- Predictive Supply Chain Forecasting (Coming Soon)
+
+### Supply Chain Analytics
+End-to-end analytics project simulating supply chain operations with focus on SLA tracking, backlog monitoring, and facility performance.
+
+🔗 https://github.com/gauripushkark/supply-chain-analytics
+
+### Predictive Supply Chain Forecasting (Coming Soon)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/gauri-pkulkarni
