@@ -1,6 +1,6 @@
 # Hi, I'm Gauri 👋
 
-Business Data Analyst with 5+ years of experience in business intelligence, supply chain analytics, and reverse logistics.
+Business Data Analyst specializing in supply chain and reverse logistics analytics, with proven experience in KPI design, SLA optimization, and large-scale operational data systems.
 
 Currently building end-to-end analytics projects using SQL, Python, and Power BI.
 
