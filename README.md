@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gauri 👋
 
-<!--
-**gauripushkark/gauripushkark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Data Analyst with 5+ years of experience in business intelligence, supply chain analytics, and reverse logistics.
 
-Here are some ideas to get you started:
+Currently building end-to-end analytics projects using SQL, Python, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- SQL, Python, R
+- Power BI, Tableau, QuickSight
+- Data Modeling, ETL, KPI Design
+- Predictive Analytics & Anomaly Detection
+- Supply Chain & Reverse Logistics Analytics
+
+## 📊 Featured Projects
+- Reverse Logistics Analytics (In Progress)
+- Predictive Supply Chain Forecasting (Coming Soon)
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/gauri-pkulkarni
