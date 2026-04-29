@@ -15,6 +15,7 @@ Currently building end-to-end analytics projects using SQL, Python, and Power BI
 
 ### Supply Chain Analytics
 End-to-end analytics project simulating supply chain operations with focus on SLA tracking, backlog monitoring, and facility performance.
+Includes SQL-based KPI modeling, backlog analysis, and facility-level performance tracking.
 
 🔗 https://github.com/gauripushkark/supply-chain-analytics
 
